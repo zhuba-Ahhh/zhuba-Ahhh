@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, 🌱 I’m currently learning ...
+### 📫 How to reach me: 3477826311@qq.com
 <!--
 **zhuba-Ahhh/zhuba-Ahhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
