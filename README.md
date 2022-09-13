@@ -1,8 +1,9 @@
 ### 🎉 Hi there 👋, 
 ### 🌱 I’m currently learning Vue && Js、CSS3
 ### 📫 Where To Find Me 🔍
-📝 My Blog: [zhuba](https://www.zhuba.cloud/)
+📝 My Blog: [ZhuBa](https://www.zhuba.cloud/)
 ✉️ Email: 3477826311@qq.com
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zhuba-Ahhh.zhuba-Ahhh)
 <!--
 **zhuba-Ahhh/zhuba-Ahhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
