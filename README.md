@@ -1,8 +1,13 @@
-### 🎉 Hi there 👋, 
-### 🌱 I’m currently learning Vue && Js、CSS3
+### 🎉 Hi there, I'm ZhuBa 👋, 
+
+📄  🎨 **Blogger** / 💻 **Developer**
+- ✨ I like learning and programming.I hope I can become better and better, keep my love for life, take learning as a lifelong habit, do everything well seriously and live a happy life every day.
+- ✨ 我喜欢学习和编程。希望自己变得越来越好，保持着对生活的热爱，把学习作为终身的习惯，认真的做好每一件事情，开开心心的过好每一天。
+- 🌱 I'm currently learning Vue and JavaScript.
+- 🌱 我目前正在学习Vue, JavaScript。
 ### 📫 Where To Find Me 🔍
-📝 My Blog: [ZhuBa](https://www.zhuba.cloud/)
-✉️ Email: 3477826311@qq.com
+- 📝 My Blog: [ZhuBa](https://www.zhuba.cloud/)
+- ✉️ Email: 3477826311@qq.com
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zhuba-Ahhh.zhuba-Ahhh)
 <!--
