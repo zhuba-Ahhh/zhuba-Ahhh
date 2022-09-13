@@ -1,14 +1,14 @@
-### 🎉 Hi there, I'm ZhuBa 👋, 
+### 🎉 Hi there, I'm ZhuBa 👋, A current XTU student. 
 
 📄  🎨 **Blogger** / 💻 **Front-end Web Developer**
 - ✨ I like learning and programming.I hope I can become better and better, keep my love for life, take learning as a lifelong habit, do everything well seriously and live a happy life every day.
 - ✨ 我喜欢学习和编程。希望自己变得越来越好，保持着对生活的热爱，把学习作为终身的习惯，认真的做好每一件事情，开开心心的过好每一天。
 - 🌱 I'm currently learning Vue and JavaScript.
-- 🌱 我目前正在学习Vue, JavaScript。
+- 🌱 我目前正在学习Vue, JavaScript, Node.Js。
 ### 📫 Where To Find Me 🔍
 - 📝 My Blog: [ZhuBa](https://www.zhuba.cloud/)
 - 💬 My CSDN: [CSDN](https://blog.csdn.net/qq_53904578)
-- ✉️ Email: 3477826311@qq.com
+- ✉️ Email: 3477826311@qq.com || 202005565712@smail.xtu.edu.cn
 
 
 <!--
