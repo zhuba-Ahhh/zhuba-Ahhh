@@ -1,6 +1,6 @@
 ### 🎉 Hi there, I'm ZhuBa 👋, 
 
-📄  🎨 **Blogger** / 💻 **Developer**
+📄  🎨 **Blogger** / 💻 **Front-end Web Developer**
 - ✨ I like learning and programming.I hope I can become better and better, keep my love for life, take learning as a lifelong habit, do everything well seriously and live a happy life every day.
 - ✨ 我喜欢学习和编程。希望自己变得越来越好，保持着对生活的热爱，把学习作为终身的习惯，认真的做好每一件事情，开开心心的过好每一天。
 - 🌱 I'm currently learning Vue and JavaScript.
@@ -9,7 +9,6 @@
 - 📝 My Blog: [ZhuBa](https://www.zhuba.cloud/)
 - ✉️ Email: 3477826311@qq.com
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zhuba-Ahhh.zhuba-Ahhh)
 <!--
 **zhuba-Ahhh/zhuba-Ahhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,13 +23,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
+  <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=zhuba-Ahhh.zhuba-Ahhh" title="Visitors">
+</p>
 
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js" title="Node.js">
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" title="JavaScript">
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" title="TypeScript">
-  
 </p>
 
 <div align="center">
