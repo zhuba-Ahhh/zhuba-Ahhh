@@ -7,7 +7,9 @@
 - 🌱 我目前正在学习Vue, JavaScript。
 ### 📫 Where To Find Me 🔍
 - 📝 My Blog: [ZhuBa](https://www.zhuba.cloud/)
+- 💬 My CSDN: [CSDN](https://blog.csdn.net/qq_53904578)
 - ✉️ Email: 3477826311@qq.com
+
 
 <!--
 **zhuba-Ahhh/zhuba-Ahhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
