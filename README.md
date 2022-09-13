@@ -25,10 +25,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 
+<p align="center">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js" title="Node.js">
+  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" title="JavaScript">
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" title="TypeScript">
+  
+</p>
 
 <div align="center">
   <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
