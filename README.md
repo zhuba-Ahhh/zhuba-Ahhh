@@ -1,5 +1,5 @@
 ### 🎉 Hi there 👋, 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning Vue && Js、CSS3
 ### 📫 How to reach me: 3477826311@qq.com
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zhuba-Ahhh.zhuba-Ahhh)
 <!--
