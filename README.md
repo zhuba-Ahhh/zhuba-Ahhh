@@ -30,9 +30,15 @@ Here are some ideas to get you started:
 
 
 
+
 <p align="center">
   <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=zhuba-Ahhh.zhuba-Ahhh" title="Visitors">
 </p>
+
+<p align="center">
+  <img alt="Visitor Count" src="https://profile-counter.glitch.me/zhuba-Ahhh/count.svg" title="Visitor Count">
+</p>
+
 
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js" title="Node.js">
