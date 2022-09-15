@@ -4,7 +4,7 @@
 - ✨ I like learning and programming.I hope I can become better and better, keep my love for life, take learning as a lifelong habit, do everything well seriously and live a happy life every day.
 - ✨ 我喜欢学习和编程。希望自己变得越来越好，保持着对生活的热爱，把学习作为终身的习惯，认真的做好每一件事情，开开心心的过好每一天。
 - 🌱 I'm currently learning Vue and JavaScript.
-- 🌱 我目前正在学习Vue, JavaScript, Node.Js。
+- 🌱 我目前正在学习Vue, JavaScript, Node.Js, TypeScript。
 ### 📫 Where To Find Me 🔍
 - 📝 My Blog: [ZhuBa](https://www.zhuba.cloud/)
 - 💬 My CSDN: [CSDN](https://blog.csdn.net/qq_53904578)
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js" title="Node.js">
-  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" title="JavaScript">
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" title="JavaScript">
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" title="TypeScript">
 </p>
 
