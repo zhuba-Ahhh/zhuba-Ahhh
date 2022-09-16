@@ -3,8 +3,8 @@
 📄  🎨 **Blogger** / 💻 **Front-end Web Developer**
 - ✨ I like learning and programming.I hope I can become better and better, keep my love for life, take learning as a lifelong habit, do everything well seriously and live a happy life every day.
 - ✨ 我喜欢学习和编程。希望自己变得越来越好，保持着对生活的热爱，把学习作为终身的习惯，认真的做好每一件事情，开开心心的过好每一天。
-- 🌱 I'm currently learning **Vue, JavaScript, Node.Js, React, TypeScript**.
-- 🌱 我目前正在学习**Vue, JavaScript, Node.Js, React, TypeScript**。
+- 🌱 I'm currently learning **Vue, JavaScript, Node.Js, React, TypeScript**, I also hope to learn from the big shots to exchange, Welcome to the guidance😄.
+- 🌱 我目前正在学习 **Vue, JavaScript, Node.Js, React, TypeScript**, 也希望向大佬们学习交流, 欢迎指点😄。
 ### 📫 Where To Find Me 🔍
 - 📝 My Blog: [ZhuBa](https://www.zhuba.cloud/)
 - 💬 My CSDN: [CSDN](https://blog.csdn.net/qq_53904578)
