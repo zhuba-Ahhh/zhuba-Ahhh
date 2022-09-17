@@ -10,6 +10,17 @@
 - 💬 My CSDN: [CSDN](https://blog.csdn.net/qq_53904578)
 - ✉️ Email: 3477826311@qq.com || 202005565712@smail.xtu.edu.cn
 
+  <a target="_blank" href="https://github.com/zhuba-Ahhh/zhuba-Ahhh/blob/main/img/WX.jpg">
+    <img align="left" title="微信号-zhuba-Ahhh" alt="eveningwater" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+  </a>
+  <a target="_blank" href="https://github.com/zhuba-Ahhh/zhuba-Ahhh/blob/main/img/QQ.jpg">
+    <img align="left" title="QQ-3477826311" alt="3477826311" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg"  />
+  </a>
+  <a target="_blank" href="https://github.com/zhuba-Ahhh">
+    <img align="left" title="Github" alt="zhuba-Ahhh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+  </a>
+
+  ![](https://komarev.com/ghpvc/?username=zhuba-Ahhh&color=ff69b4&label=PV+Since+2022-08-10)
 
 
 
@@ -27,6 +38,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![访问量](https://profile-counter.glitch.me/TimeRainStarSky-TRSS_Yunzai/count.svg)](https://github.com/TimeRainStarSky/TRSS_Yunzai)
+<!-- [![zhuba-Ahhh's github stats](https://github-readme-stats.vercel.app/api?username=zhuba-Ahhh&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/anuraghazra/github-readme-stats) -->
 -->
 
 
