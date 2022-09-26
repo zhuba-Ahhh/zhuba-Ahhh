@@ -1,6 +1,6 @@
 ### 
 
-<h1 align="center"> 🎉 Hi there, I'm <a href="https://github.com/zhuba-Ahhh/zhuba-Ahhh">ZhuBa</a>👋, A current XTU student!</h1>
+<h1 align="center"> 🎉 Hi there, I'm <a href="https://github.com/zhuba-Ahhh">ZhuBa</a>👋, A current XTU student!</h1>
 <h1 align="center">A future of 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
 📄  🎨 **Blogger** / 💻 **Front-end Web Developer**
