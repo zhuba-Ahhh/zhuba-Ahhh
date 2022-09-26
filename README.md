@@ -1,4 +1,7 @@
-### 🎉 Hi there, I'm ZhuBa 👋, A current XTU student. 
+### 
+
+<h1 align="center"> 🎉 Hi there, I'm <a href="https://github.com/zhuba-Ahhh/zhuba-Ahhh">ZhuBa</a>👋, A current XTU student!</h1>
+<h1 align="center">A future of 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
 📄  🎨 **Blogger** / 💻 **Front-end Web Developer**
 - ✨ I like learning and programming.I hope I can become better and better, keep my love for life, take learning as a lifelong habit, do everything well seriously and live a happy life every day.
