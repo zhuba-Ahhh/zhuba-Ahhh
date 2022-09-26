@@ -13,6 +13,9 @@
 - 💬 My CSDN: [CSDN](https://blog.csdn.net/qq_53904578)
 - ✉️ Email: 3477826311@qq.com || 202005565712@smail.xtu.edu.cn
 
+
+<a href="https://space.bilibili.com/351534170"><img src="https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D351534170" /></a><a href="https://github.com/zhuba-Ahhh"><img src="https://img.shields.io/github/stars/zhuba-Ahhh?color=faf408&label=github%20stars&logo=github" /></a><br/>
+
   <a target="_blank" href="https://raw.githubusercontent.com/zhuba-Ahhh/Zhuba/master/img/202209171246116.jpg">
     <img align="left" title="WX-zhuba-Ahhh" alt="eveningwater" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
   </a>
