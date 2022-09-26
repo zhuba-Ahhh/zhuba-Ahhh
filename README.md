@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="250" /></a>
+<!-- <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="250" /></a> -->
 
 
 <!-- 连续提交代码天数记录 -->
@@ -86,16 +86,16 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<!-- 
-<p align="left">
+
+<p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=zhuba-Ahhh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"></img>
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuba-Ahhh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"></img>
-</p> -->
+</p>
 
-<p align="left">
+<!-- <p align="left">
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=zhuba-Ahhh&show_icons=true&include_all_commits=true">
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuba-Ahhh">
-</p>
+</p> -->
 
 
 <br>
