@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 
 
 
-
 <p align="center">
   <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=zhuba-Ahhh.zhuba-Ahhh" title="Visitors">
 </p>
@@ -76,17 +75,29 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+
+
+<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="250" /></a>
+
+
 <!-- 连续提交代码天数记录 -->
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhuba-Ahhh&theme=dark&hide_border=true" />
 </div>
 <br>
 
-<div align="center">
+<!-- 
+<p align="left">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=zhuba-Ahhh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"></img>
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuba-Ahhh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"></img>
-</div>
-<br>
+</p> -->
 
+<p align="left">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=zhuba-Ahhh&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuba-Ahhh">
+</p>
+
+
+<br>
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=zhuba-Ahhh&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
