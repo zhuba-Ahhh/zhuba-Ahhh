@@ -49,10 +49,11 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 <p align="center">
-  <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=zhuba-Ahhh.zhuba-Ahhh" title="Visitors">
+  <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=zhuba-Ahhh" title="Visitors">
 </p>
+-->
 
 <p align="center">
   <img alt="Visitor Count" src="https://profile-counter.glitch.me/zhuba-Ahhh/count.svg" title="Visitor Count">
