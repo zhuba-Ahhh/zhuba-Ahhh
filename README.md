@@ -1,5 +1,3 @@
-### 
-
 <h1 align="center"> 🎉 Hi there, I'm <a href="https://github.com/zhuba-Ahhh">ZhuBa</a>👋, A current XTU student!</h1>
 <h1 align="center">A future of 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
@@ -13,22 +11,20 @@
 - 💬 My CSDN: [CSDN](https://blog.csdn.net/qq_53904578)
 - ✉️ Email: 3477826311@qq.com || 202005565712@smail.xtu.edu.cn
 
-
-<a href="https://space.bilibili.com/351534170"><img src="https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D424243300" /></a><a href="https://github.com/zhuba-Ahhh"><img src="https://img.shields.io/github/stars/zhuba-Ahhh?color=faf408&label=github%20stars&logo=github" /></a><br/>
-
+<div align="center">  <p align="center">
+<a href="https://space.bilibili.com/351534170"><img src="https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D424243300" /></a>
+<a href="https://github.com/zhuba-Ahhh"><img src="https://img.shields.io/github/stars/zhuba-Ahhh?color=faf408&label=github%20stars&logo=github" /></a></p>
   <a target="_blank" href="https://raw.githubusercontent.com/zhuba-Ahhh/Zhuba/master/img/202209171246116.jpg">
-    <img align="left" title="WX-zhuba-Ahhh" alt="eveningwater" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+    <img align="center" title="WX-zhuba-Ahhh" alt="eveningwater" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/zhuba-Ahhh/Zhuba/master/img/202209171246596.jpg">
-    <img align="left" title="QQ-3477826311" alt="3477826311" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg"  />
+    <img align="center" title="QQ-3477826311" alt="3477826311" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg"  />
   </a>
   <a target="_blank" href="https://github.com/zhuba-Ahhh">
-    <img align="left" title="Github" alt="zhuba-Ahhh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+    <img align="center" title="Github" alt="zhuba-Ahhh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
   </a>
-
-  ![](https://komarev.com/ghpvc/?username=zhuba-Ahhh&color=ff69b4&label=PV+Since+2022-08-10)
-
-
+</div>
+<br/>
 
 <!--
 **zhuba-Ahhh/zhuba-Ahhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,12 +41,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![访问量](https://profile-counter.glitch.me/TimeRainStarSky-TRSS_Yunzai/count.svg)](https://github.com/TimeRainStarSky/TRSS_Yunzai)
 [![zhuba-Ahhh's github stats](https://github-readme-stats.vercel.app/api?username=zhuba-Ahhh&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/anuraghazra/github-readme-stats)
--->
 
-![](https://img.shields.io/badge/JavaScript-orange?style=flat&logo=JavaScript) 
+![](https://img.shields.io/badge/Node.js-orange?style=flat&logo=Node.js) 
 ![](https://img.shields.io/badge/Vue.js-black?style=flat&logo=Vue.js)
 ![](https://img.shields.io/badge/TypeScript-yello?style=flat&logo=TypeScript) 
 ![](https://img.shields.io/badge/React-green?style=flat&logo=React)
+
+  <p align="center">
+    <img align="center" title="Github" alt="zhuba-Ahhh" src="https://komarev.com/ghpvc/?username=zhuba-Ahhh&color=ff69b4&label=PV+Since+2022-08-10" />
+  </p>
+-->
+
 
 <!--
 <p align="center">
@@ -65,9 +66,11 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js" title="Node.js">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-orange?style=flat&logo=Node.js" title="Node.js">
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" title="JavaScript">
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" title="TypeScript">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-black?style=flat&logo=Vue.js" title="Vue.js">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-yello?style=flat&logo=TypeScript" title="TypeScript">
+  <img alt="React" src="https://img.shields.io/badge/React-green?style=flat&logo=React" title="React">
 </p>
 
 <div align="center">
