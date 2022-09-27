@@ -47,7 +47,10 @@ Here are some ideas to get you started:
 [![zhuba-Ahhh's github stats](https://github-readme-stats.vercel.app/api?username=zhuba-Ahhh&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-
+![](https://img.shields.io/badge/JavaScript-orange?style=flat&logo=JavaScript) 
+![](https://img.shields.io/badge/Vue.js-black?style=flat&logo=Vue.js)
+![](https://img.shields.io/badge/TypeScript-yello?style=flat&logo=TypeScript) 
+![](https://img.shields.io/badge/React-green?style=flat&logo=React)
 
 <!--
 <p align="center">
@@ -58,6 +61,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img alt="Visitor Count" src="https://profile-counter.glitch.me/zhuba-Ahhh/count.svg" title="Visitor Count">
 </p>
+
 
 
 <p align="center">
