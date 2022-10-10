@@ -9,7 +9,7 @@
 ### 📫 Where To Find Me 🔍
 - 📝 My Blog: [ZhuBa](https://www.zhuba.cloud/)
 - 💬 My CSDN: [CSDN](https://blog.csdn.net/qq_53904578)
-- ✉️ Email: 3477826311@qq.com || 202005565712@smail.xtu.edu.cn
+- ✉️ Email: yanwenjunxtu@gmail.com || 3477826311@qq.com
 
 <div align="center">  <p align="center">
 <a href="https://space.bilibili.com/351534170"><img src="https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D424243300" /></a>
