@@ -7,7 +7,7 @@
 - 🌱 I'm currently learning **Vue, JavaScript, Node.Js, React, TypeScript**, I also hope to learn from the big shots to exchange, Welcome to the guidance😄.
 - 🌱 我目前正在学习 **Vue, JavaScript, Node.Js, React, TypeScript**, 也希望向大佬们学习交流, 欢迎指点😄⚡。
 ### 📫 Where To Find Me 🔍
-- 📝 My Blog: [ZhuBa](https://www.zhuba.cloud/)
+- 📝 My HexoBlog: [YuQue](https://www.yuque.com/shanqinghuayuran-ijoer/vknakv) || [Hexo](https://www.zhuba.cloud/)
 - 💬 My CSDN: [CSDN](https://blog.csdn.net/qq_53904578)
 - ✉️ Email: yanwenjunxtu@gmail.com || 3477826311@qq.com
 
