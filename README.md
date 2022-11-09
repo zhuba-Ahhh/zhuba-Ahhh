@@ -84,7 +84,6 @@ Here are some ideas to get you started:
 <br>
 
 
-
 <!-- <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="250" /></a> -->
 
 
