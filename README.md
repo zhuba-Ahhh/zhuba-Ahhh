@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=zhuba-Ahhh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"></img>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuba-Ahhh&hide_title=true&hide_border=true&layout=compact&hide_border=true&show_icons=trueline_height=40&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&langs_count=10"></img> 
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuba-Ahhh&hide_title=true&hide_border=true&layout=compact&hide_border=true&show_icons=trueline_height=40&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&langs_count=8"></img> 
 </p>
 
 <!-- <p align="left">
