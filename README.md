@@ -3,16 +3,11 @@
 
 ### 📄 🎨 **Blogger** / 💻 **Front-end Web Developer**
 - ✨ I like learning and programming.I hope I can become better and better, keep my love for life, take learning as a lifelong habit, do everything well seriously and live a happy life every day.
-- ✨ 我喜欢学习和编程。希望自己变得越来越好，保持着对生活的热爱，把学习作为终身的习惯，认真的做好每一件事情，开开心心的过好每一天。
 - 🌱 I'm currently learning **Vue, JavaScript, Node.Js, React, TypeScript**, I also hope to learn from the big shots to exchange, Welcome to the guidance😄.
-- 🌱 我目前正在学习 **Vue, JavaScript, Node.Js, React, TypeScript**, 也希望向大佬们学习交流, 欢迎指点😄⚡。
 ### 📫 Where To Find Me 🔍
 - 📝 My HexoBlog: ⚡ [YuQue](https://www.yuque.com/shanqinghuayuran-ijoer/vknakv) || [Hexo](https://www.zhuba.cloud/)
 - 💬 My CSDN: [CSDN](https://blog.csdn.net/qq_53904578)
 - ✉️ Email: yanwenjunxtu@gmail.com || 3477826311@qq.com
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhuba-Ahhh&theme=dark&hide_border=true" />
-</div>
 <br>
 <p align="center">
   <img  height="150px" src="https://github-readme-stats.vercel.app/api?username=zhuba-Ahhh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"></img>
