@@ -6,7 +6,7 @@
 **The Current Technology stack**：
 
   - **JavaScript / TypeScript**
-  - **Vue2 / Vue3 / React / Nuxt.js / Next.JS**
+  - **Vue2 / Vue3 / React / Nuxt.Js / Next.JS**
   - **Node.JS / Egg.JS / Express.JS**
   - **Webpack / Vite / pinia / ECharts**
 
