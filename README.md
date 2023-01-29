@@ -3,18 +3,11 @@
 
 ### 📄 🎨 **Blogger** / 💻 **Front-end Web Developer**
 
-**The Current Technology stack**：
-
-  - **JavaScript / TypeScript**
-  - **Vue2 / Vue3 / React / Nuxt.Js / Next.JS**
-  - **Node.JS / Egg.JS / Express.JS**
-  - **Webpack / Vite / pinia / ECharts**
+<img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/-Vue.Js-46b882?style=flat&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/-NuxtJs-black?style=flat&logo=nuxt.js&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Express-33333D?style=flat&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack"> <img src="https://img.shields.io/badge/-Vite-9b5ffe?style=flat&logo=vite&logoColor=white">
 
 
 ### 📫 Where To Find Me 🔍
-- 📝 **My HexoBlog: ⚡ [YuQue](https://www.yuque.com/shanqinghuayuran-ijoer/vknakv) || [Hexo](https://www.zhuba.cloud/)**
-- 💬 **My CSDN: [CSDN](https://blog.csdn.net/qq_53904578)**
-- ✉️ **Email: yanwenjunxtu@gmail.com || 3477826311@qq.com**
+📝 **My HexoBlog: ⚡ [YuQue](https://www.yuque.com/shanqinghuayuran-ijoer/vknakv) || [Hexo](https://www.zhuba.cloud/)** ✉️ **Email: yanwenjunxtu@gmail.com || 3477826311@qq.com**
 <br>
 <!-- <p align="center">
   <img  height="150px" src="https://github-readme-stats.vercel.app/api?username=zhuba-Ahhh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"></img>
