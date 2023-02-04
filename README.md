@@ -7,7 +7,8 @@
 
 
 ### 📫 Where To Find Me 🔍
-📝 **My HexoBlog: ⚡ [YuQue](https://www.yuque.com/shanqinghuayuran-ijoer/vknakv) || [Hexo](https://www.zhuba.cloud/)** ✉️ **Email: yanwenjunxtu@gmail.com || 3477826311@qq.com**
+📝 **My HexoBlog: ⚡ [YuQue](https://www.yuque.com/shanqinghuayuran-ijoer/vknakv) || [Hexo](https://www.zhuba.cloud/)**<br/>
+✉️ **Email: yanwenjunxtu@gmail.com || 3477826311@qq.com**
 <br>
 <!-- <p align="center">
   <img  height="150px" src="https://github-readme-stats.vercel.app/api?username=zhuba-Ahhh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"></img>
