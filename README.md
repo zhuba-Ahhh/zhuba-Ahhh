@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 Work Experience 🧱
 #### 2022.12 - 2023.2 上海吉日开世科技-前端实习
-#### 2023.02 -     今    北京快手科技-前端实习
+#### 2023.02 - 2023.5 北京快手科技-前端实习
 <br>
 <!-- <p align="center">
   <img  height="150px" src="https://github-readme-stats.vercel.app/api?username=zhuba-Ahhh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"></img>
