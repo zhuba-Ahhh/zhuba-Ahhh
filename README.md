@@ -10,8 +10,8 @@
 #### 📝 **My HexoBlog: ⚡ [YuQue](https://www.yuque.com/shanqinghuayuran-ijoer/vknakv) || [Hexo](https://www.zhuba.cloud/)**  ✉️ Email: yanwenjunxtu@gmail.com
 
 ### 🧑‍💻 Work Experience 🧱
-#### 2022.12 - 2023.2 上海吉日开世-前端实习
-#### 2023.02 - 2023.5 北京快手-前端实习
+#### 2022.12 - 2023.02 上海吉日开世-前端实习
+#### 2023.02 - 2023.05 北京快手-前端实习
 #### 2023.06 -   ～   浙江快手-前端实习
 <br>
 <!-- <p align="center">
