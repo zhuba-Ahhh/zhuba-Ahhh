@@ -20,5 +20,5 @@ jobs:
           git config --local user.name "zhuba-Ahhh"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
-          git commit --allow-empty -m ""
+          git commit --allow-empty -m "update"
           git push
