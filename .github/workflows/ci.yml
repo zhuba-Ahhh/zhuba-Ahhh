@@ -8,20 +8,20 @@ on:
     - cron: "0 0/3 * * *"
 
 jobs:
-  autogreen:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Clone repository
-        uses: actions/checkout@v2
+  # autogreen:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Clone repository
+  #       uses: actions/checkout@v2
 
-      - name: Auto Update
-        run: |
-          git config --local user.email "3477826311@qq.com"
-          git config --local user.name "zhuba-Ahhh"
-          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git pull --rebase
-          git commit --allow-empty -m "update"
-          git push
+  #     - name: Auto Update
+  #       run: |
+  #         git config --local user.email "3477826311@qq.com"
+  #         git config --local user.name "zhuba-Ahhh"
+  #         git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+  #         git pull --rebase
+  #         git commit --allow-empty -m "update"
+  #         git push
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
