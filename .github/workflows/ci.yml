@@ -22,3 +22,22 @@ jobs:
           git pull --rebase
           git commit --allow-empty -m "update"
           git push
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          # GitHub access token with Repo scope
+          # GH_TOKEN: # default is ${{ github.token }}
+          # Your Wakatime API Key
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Your GitHub repository
+          # REPOSITORY: # optional, default is ${{ github.repository }}
+          # Displays the week number and days in Readme as title
+          SHOW_TITLE: true # optional
+          # Add a commit message of your choice
+          # COMMIT_MESSAGE: # optional, default is Updated the Graph with new Metrics
+          # Add the progress blocks of your choice
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional, default is ░▒▓█
+          SHOW_TOTAL: true
