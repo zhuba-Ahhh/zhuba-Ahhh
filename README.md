@@ -14,11 +14,11 @@ From: 21 April 2024 - To: 28 April 2024
 
 Total Time: 46 hrs 22 mins
 
-TypeScript    32 hrs 54 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀   68.85 %
-JSON          5 hrs 35 mins   ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.72 %
-JavaScript    1 hr 26 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.03 %
-Other         1 hr 24 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.94 %
-Markdown      1 hr 21 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.84 %
+TypeScript    32 hrs 54 mins  █████████████████▒░░░░░░░   68.85 %
+JSON          5 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+JavaScript    1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Other         1 hr 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Markdown      1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
