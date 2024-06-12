@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2024 - To: 10 June 2024
+From: 04 June 2024 - To: 11 June 2024
 
-Total Time: 2 hrs 48 mins
+Total Time: 3 hrs 59 mins
 
-TypeScript   2 hrs 21 mins   █████████████████████░░░░   84.10 %
-Rust         20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-Less         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TypeScript   2 hrs 21 mins   ██████████████▓░░░░░░░░░░   58.96 %
+HTML         37 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
+Markdown     24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Rust         20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+TOML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
