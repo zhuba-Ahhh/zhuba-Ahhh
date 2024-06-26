@@ -10,14 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2024 - To: 25 June 2024
+From: 19 June 2024 - To: 26 June 2024
 
-Total Time: 17 mins
+Total Time: 7 mins
 
-YAML         8 mins          ████████████░░░░░░░░░░░░░   48.11 %
-TypeScript   7 mins          ██████████▓░░░░░░░░░░░░░░   42.49 %
-Text         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-Java         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+TypeScript   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
