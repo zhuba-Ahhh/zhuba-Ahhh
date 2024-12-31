@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2024 - To: 30 December 2024
+From: 24 December 2024 - To: 31 December 2024
 
-Total Time: 21 hrs 47 mins
+Total Time: 17 hrs 31 mins
 
-TypeScript   19 hrs 22 mins  ██████████████████████▒░░   88.97 %
-JSON         1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Less         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+TypeScript   15 hrs 43 mins  ██████████████████████▒░░   89.70 %
+JSON         1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
