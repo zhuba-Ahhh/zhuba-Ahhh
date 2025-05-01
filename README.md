@@ -10,13 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2025 - To: 30 April 2025
+From: 24 April 2025 - To: 01 May 2025
 
-Total Time: 39 mins
+Total Time: 3 mins
 
-TypeScript   34 mins         ██████████████████████░░░   87.76 %
-JSON         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JSON         3 mins          ████████████████████████▒   97.52 %
+TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
