@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2025 - To: 11 May 2025
+From: 05 May 2025 - To: 12 May 2025
 
-Total Time: 32 mins
+Total Time: 1 hr 41 mins
 
-JSON         21 mins         ████████████▒░░░░░░░░░░░░   49.09 %
-Other        11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
-SSH Key      5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-TypeScript   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Bash         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+TypeScript   50 mins         ███████████░░░░░░░░░░░░░░   43.76 %
+JSON         36 mins         ████████░░░░░░░░░░░░░░░░░   31.67 %
+Other        14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+Bash         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+SSH Key      5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
