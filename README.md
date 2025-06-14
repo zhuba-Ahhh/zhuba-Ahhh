@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
-Total Time: 38 hrs 55 mins
+Total Time: 39 hrs 10 mins
 
-TypeScript           29 hrs 57 mins  ███████████████████▒░░░░░   76.92 %
-SCSS                 4 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
-JSON                 3 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+TypeScript           29 hrs 57 mins  ███████████████████░░░░░░   76.44 %
+SCSS                 5 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+JSON                 3 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
 Markdown             20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 JavaScript           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
