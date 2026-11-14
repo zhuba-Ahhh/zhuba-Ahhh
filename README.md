@@ -1,15 +1,15 @@
-<div align="center">
+<h1 align="center">Hi, I'm Rush 👋</h1>
 
-# Hi, I'm Rush 👋
+<p align="center">
+  <b>前端工程师 · Front-end Engineer</b><br />
+  Vue 3 · React · Nuxt · TypeScript · Node.js
+</p>
 
-**前端工程师 · Front-end Engineer**
-Vue 3 · React · Nuxt · TypeScript · Node.js
-
-[![Profile Views](https://komarev.com/ghpvc/?username=zhuba-Ahhh&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/zhuba-Ahhh)
-[![Followers](https://img.shields.io/github/followers/zhuba-Ahhh?label=Followers&style=flat&color=0e75b6)](https://github.com/zhuba-Ahhh?tab=followers)
-[![Stars](https://img.shields.io/github/stars/zhuba-Ahhh?label=Stars&style=flat&color=0e75b6)](https://github.com/zhuba-Ahhh?tab=repositories)
-
-</div>
+<p align="center">
+  <a href="https://github.com/zhuba-Ahhh"><img src="https://komarev.com/ghpvc/?username=zhuba-Ahhh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
+  <a href="https://github.com/zhuba-Ahhh?tab=followers"><img src="https://img.shields.io/github/followers/zhuba-Ahhh?label=Followers&style=flat&color=0e75b6" alt="Followers" /></a>
+  <a href="https://github.com/zhuba-Ahhh?tab=repositories"><img src="https://img.shields.io/github/stars/zhuba-Ahhh?label=Stars&style=flat&color=0e75b6" alt="Stars" /></a>
+</p>
 
 ---
 
