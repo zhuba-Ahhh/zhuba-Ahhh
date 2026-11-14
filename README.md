@@ -25,7 +25,7 @@
 
 | 项目 | 简介 | 技术栈 |
 | :--- | :--- | :--- |
-| **[df-api](https://github.com/zhuba-Ahhh/df-api)** | 三角洲行动材料 / 图鉴数据 API · [api-df.zhuba.online](https://api-df.zhuba.online) | TypeScript · Node.js |
+| **[df-api](https://github.com/zhuba-Ahhh/df-api)** | 三角洲行动材料 / 图鉴数据 API | TypeScript · Node.js |
 | **[df-web](https://github.com/zhuba-Ahhh/df-web)** | 三角洲行动图鉴前端站点 | Vue 3 · TypeScript |
 | **[K-UI](https://github.com/zhuba-Ahhh/K-UI)** | 个人 Vue 3 组件库 | Vue 3 · TypeScript |
 | **[airbnb-ssr](https://github.com/zhuba-Ahhh/airbnb-ssr)** | Vue3 + TS + Nuxt 服务端渲染实践 | Vue 3 · Nuxt |
@@ -48,10 +48,16 @@
 <div align="center">
 
 <a href="https://github.com/zhuba-Ahhh">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zhuba-Ahhh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="zhuba-Ahhh's github stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhuba-Ahhh&theme=github" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/zhuba-Ahhh">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuba-Ahhh&hide_title=true&hide_border=true&layout=compact&langs_count=6&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="zhuba-Ahhh's top langs" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhuba-Ahhh&theme=github" alt="Most Commit Language" />
+</a>
+
+<br />
+
+<a href="https://github.com/zhuba-Ahhh">
+  <img src="https://streak-stats.demolab.com/?user=zhuba-Ahhh&theme=default" alt="GitHub Streak" />
 </a>
 
 </div>
