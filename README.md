@@ -62,19 +62,6 @@
 
 </div>
 
-## ⏱️ Coding Activity
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ## 📮 Contact
 
@@ -99,8 +86,4 @@ No activity tracked
 
 ---
 
-<div align="center">
-
-**如果这些项目帮到你，欢迎点个 ⭐**
-
-</div>
+<p align="center"><b>如果这些项目帮到你，欢迎点个 ⭐</b></p>
